@@ -4,70 +4,83 @@ In this project, I meticulously utilized HR data📊 to extract insights💡 and
 Key Highlights of the HR Analytics Dashboard:
 
 In the course of developing this project, I undertook several critical steps, including:
-✅Data Cleaning
-✅Data Processing
-✅Data Analysis
-✅Data Visualization
-✅Dashboard Construction
-✅Filter Panel Integration
-✅Panel Creation
+
+- ✅Data Cleaning
+
+- ✅Data Processing
+
+- ✅Data Analysis
+
+- ✅Data Visualization
+
+- ✅Dashboard Construction
+
+- ✅Filter Panel Integration
+
+- ✅Panel Creation
 
 The HR data encompassed employee counts and attrition rates, providing a unique perspective into workforce dynamics. This dashboard enabled me to uncover a multitude of insights, such as the number of employees who have left the company, attrition rates across different age groups and genders, department-wise attrition statistics, employee satisfaction ratings, and more.
 
 Incorporating Month-to-Date (MTD), Quarter-to-Date (QTD), and Year-to-Date (YTD) Employee Insights, the dashboard offers an in-depth analysis of various aspects:
 
-🏢 Attrition:
+- 🏢 Attrition:
 Yes: Employees who have left the company
 No: Current Employees
 
-🚗 Business Travel:
+- 🚗 Business Travel:
 Travel_Rarely: Employees who rarely travel for business
 Travel_Frequently: Employees who frequently travel for business
 No: Employees who do not travel for business
 
-📅 Age Band:
+- 📅 Age Band:
 25 - 34: Employees aged 25 to 34
 35 - 44: Employees aged 35 to 44
 45 - 54: Employees aged 45 to 54
 Over 55: Employees above 55 years old
 
-📋 CF_Age Band:
+- 📋 CF_Age Band:
 -2: Missing/Undefined Age Band
 
-💼 Department:
+- 💼 Department:
 Sales, R&D (Research and Development)
 
-🎓 Education Field:
+- 🎓 Education Field:
 Life Sciences, Other, Medical
 
-🔢 Employee Numbers:
+- 🔢 Employee Numbers:
 Assigned employee numbers for effective tracking
 
-🧑‍💼 Gender:
+- 🧑‍💼 Gender:
 Male, Female
 
-👔 Job Role:
+- 👔 Job Role:
 Sales Executive, Research Scientist, Laboratory Technician, Manufacturing Director, Healthcare Representative, and more.
 
-👰 Marital Status:
+- 👰 Marital Status:
 Single, Married, Divorced
 
-🎓 Education:
+- 🎓 Education:
 Associates Degree, High School, Master's Degree, Bachelor's Degree
 
-👥 Employee Count:
+- 👥 Employee Count:
 Total count of employees within each category
 
-😃 Environment Satisfaction:
+- 😃 Environment Satisfaction:
 Rating reflecting employee contentment with their work environment
 
-💲 Daily Rate:
+- 💲 Daily Rate:
 Employee's daily wage
 
-🚗 Distance From Home:
+- 🚗 Distance From Home:
 Distance between employee's home and workplace
 
-👔 Job Level:
+- 👔 Job Level:
 Rating indicating the job level of each employee
 
 This HR dashboard offers actionable insights into our organization's workforce, empowering us to track attrition trends, business travel patterns, employee demographics, and more. We can make informed decisions to enhance employee satisfaction, retention, and overall productivity by continuously analyzing this data.
+
+![image](https://github.com/ymurikinati/HR-ANALYTICS-DASHBOARD-using-Tableau/assets/138186696/0a918c96-20e7-435a-b273-f24e441fffab)
+
+![image](https://github.com/ymurikinati/HR-ANALYTICS-DASHBOARD-using-Tableau/assets/138186696/b31605fe-eaf3-4935-95b8-be9d5d91ddb6)
+
+
